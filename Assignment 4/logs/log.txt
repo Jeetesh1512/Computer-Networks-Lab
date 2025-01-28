@@ -1,0 +1,1474 @@
+
+
+----------------------------------------------------------
+ Walsh Table For 3 Station environment:[[1, 1, 1, 1], [1, -1, 1, -1], [1, 1, -1, -1], [1, -1, -1, 1]]                   
+
+----------------------------------------------------------
+
+[18/11/2024 16:43:41] RECEIVER-1 Receives Data from SENDER-1
+[18/11/2024 16:43:41] RECEIVER-2 Receives Data from SENDER-2
+[18/11/2024 16:43:41] RECEIVER-3 Receives Data from SENDER-3
+[18/11/2024 16:43:41] SENDER-1 Started Sending To RECEIVER-1
+[18/11/2024 16:43:41] SENDER-2 Started Sending To RECEIVER-2
+[18/11/2024 16:43:41] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:41] SENDER-3 Started Sending To RECEIVER-3
+[18/11/2024 16:43:41] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:41] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:41] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:41] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:41] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:41] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:41] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:41] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:42] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:42] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:42] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:42] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:42] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:42] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:42] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:42] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:42] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:42] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:42] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:42] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:42] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:42] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:42] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:42] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:42] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:42] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:42] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:42] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:42] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:42] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:42] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:42] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:42] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:42] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:42] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:43] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:43] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:43] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:43] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:43] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:43] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:43] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:43] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:43] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:43] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:43] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:43] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:43] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:43] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:43] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:43] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:43] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:43] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:43] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:43] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:43] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:43] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:43] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:43] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:43] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:43] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:43] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:44] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:44] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:44] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:44] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:44] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:44] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:44] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:44] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:44] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:44] Data : [0, 1, 0, 0, 1, 0, 1, 0]
+[18/11/2024 16:43:44] Data : [0, 1, 0, 0, 1, 0, 1, 0]
+[18/11/2024 16:43:44] Char Received: J
+
+[18/11/2024 16:43:44] Char Received: J
+
+[18/11/2024 16:43:44] Data : [0, 1, 0, 0, 1, 0, 1, 0]
+[18/11/2024 16:43:44] Char Received: J
+
+[18/11/2024 16:43:44] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:44] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:44] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:44] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:44] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:44] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:44] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:44] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:44] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:44] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:44] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:44] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:44] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:44] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:44] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:44] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:44] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:44] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:44] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:44] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:44] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:44] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:44] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:44] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:44] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:44] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:44] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:45] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:45] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:45] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:45] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:45] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:45] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:45] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:45] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:45] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:45] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:45] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:45] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:45] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:45] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:45] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:45] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:45] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:45] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:45] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:45] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:45] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:45] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:45] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:45] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:45] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:45] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:45] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:46] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:46] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:46] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:46] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:46] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:46] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:46] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:46] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:46] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:46] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:46] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:46] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:46] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:46] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:46] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:46] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:46] Data : [0, 1, 1, 0, 0, 1, 0, 1]
+[18/11/2024 16:43:46] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:46] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:46] Char Received: e
+
+[18/11/2024 16:43:46] Data : [0, 1, 1, 0, 0, 1, 0, 1]
+[18/11/2024 16:43:46] Char Received: e
+
+[18/11/2024 16:43:46] Data : [0, 1, 1, 0, 0, 1, 0, 1]
+[18/11/2024 16:43:46] Char Received: e
+
+[18/11/2024 16:43:46] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:46] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:46] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:46] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:46] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:46] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:46] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:46] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:46] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:47] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:47] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:47] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:47] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:47] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:47] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:47] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:47] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:47] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:47] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:47] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:47] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:47] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:47] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:47] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:47] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:47] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:47] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:47] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:47] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:47] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:47] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:47] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:47] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:47] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:47] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:47] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:48] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:48] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:48] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:48] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:48] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:48] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:48] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:48] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:48] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:48] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:48] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:48] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:48] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:48] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:48] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:48] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:48] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:48] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:48] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:48] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:48] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:48] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:48] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:48] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:48] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:48] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:48] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:48] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:48] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:48] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:48] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:48] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:48] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:48] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:48] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:48] Data : [0, 1, 1, 0, 0, 1, 0, 1]
+[18/11/2024 16:43:48] Data : [0, 1, 1, 0, 0, 1, 0, 1]
+[18/11/2024 16:43:48] Char Received: e
+
+[18/11/2024 16:43:48] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:48] Char Received: e
+
+[18/11/2024 16:43:48] Data : [0, 1, 1, 0, 0, 1, 0, 1]
+[18/11/2024 16:43:48] Char Received: e
+
+[18/11/2024 16:43:49] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:49] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:49] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:49] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:49] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:49] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:49] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:49] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:49] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:49] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:49] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:49] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:49] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:49] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:49] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:49] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:49] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:49] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:49] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:49] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:49] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:49] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:49] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:49] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:49] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:49] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:49] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:50] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:50] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:50] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:50] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:50] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:50] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:50] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:50] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:50] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:50] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:50] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:50] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:50] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:50] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:50] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:50] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:50] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:50] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:50] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:50] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:50] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:50] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:50] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:50] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:50] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:50] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:50] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:51] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:51] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:51] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:51] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:51] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:51] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:51] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:51] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:51] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:51] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:51] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:51] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:51] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:51] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:51] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:51] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:51] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:51] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:51] Data : [0, 1, 1, 1, 0, 1, 0, 0]
+[18/11/2024 16:43:51] Data : [0, 1, 1, 1, 0, 1, 0, 0]
+[18/11/2024 16:43:51] Data : [0, 1, 1, 1, 0, 1, 0, 0]
+[18/11/2024 16:43:51] Char Received: t
+
+[18/11/2024 16:43:51] Char Received: t
+
+[18/11/2024 16:43:51] Char Received: t
+
+[18/11/2024 16:43:51] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:51] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:51] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:51] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:51] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:51] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:51] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:51] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:51] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:51] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:51] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:51] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:51] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:51] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:51] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:51] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:51] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:51] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:52] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:52] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:52] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:52] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:52] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:52] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:52] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:52] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:52] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:52] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:52] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:52] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:52] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:52] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:52] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:52] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:52] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:52] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:52] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:52] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:52] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:52] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:52] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:52] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:52] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:52] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:52] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:53] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:53] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:53] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:53] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:53] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:53] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:53] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:53] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:53] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:53] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:53] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:53] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:53] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:53] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:53] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:53] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:53] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:53] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:53] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:53] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:53] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:53] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:53] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:53] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:53] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:53] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:53] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:53] Data : [0, 1, 1, 0, 0, 1, 0, 1]
+[18/11/2024 16:43:53] Data : [0, 1, 1, 0, 0, 1, 0, 1]
+[18/11/2024 16:43:53] Data : [0, 1, 1, 0, 0, 1, 0, 1]
+[18/11/2024 16:43:53] Char Received: e
+
+[18/11/2024 16:43:53] Char Received: e
+
+[18/11/2024 16:43:53] Char Received: e
+
+[18/11/2024 16:43:54] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:54] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:54] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:54] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:54] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:54] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:54] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:54] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:54] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:54] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:54] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:54] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:54] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:54] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:54] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:54] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:54] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:54] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:54] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:54] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:54] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:54] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:54] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:54] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:54] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:54] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:54] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:54] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:54] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:54] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:54] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:54] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:54] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:54] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:54] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:54] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:55] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:55] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:55] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:55] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:55] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:55] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:55] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:55] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:55] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:55] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:55] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:55] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:55] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:55] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:55] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:55] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:55] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:55] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:55] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:55] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:55] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:55] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:55] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:55] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:55] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:55] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:55] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:56] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:56] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:56] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:56] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:56] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:56] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:56] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:56] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:56] Data : [0, 1, 1, 1, 0, 0, 1, 1]
+[18/11/2024 16:43:56] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:56] Data : [0, 1, 1, 1, 0, 0, 1, 1]
+[18/11/2024 16:43:56] Char Received: s
+
+[18/11/2024 16:43:56] Char Received: s
+
+[18/11/2024 16:43:56] Data : [0, 1, 1, 1, 0, 0, 1, 1]
+[18/11/2024 16:43:56] Char Received: s
+
+[18/11/2024 16:43:56] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:56] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:56] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:56] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:56] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:56] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:56] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:56] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:56] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:56] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:56] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:56] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:56] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:56] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:56] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:56] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:56] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:56] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:57] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:57] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:57] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:57] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:57] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:57] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:57] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:57] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:57] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:57] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:57] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:57] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:57] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:57] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:57] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:57] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:57] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:57] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:57] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:57] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:57] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:57] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:57] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:57] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:57] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:57] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:57] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:57] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:57] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:57] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:57] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:57] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:57] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:57] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:57] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:57] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:58] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:58] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:58] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:58] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:58] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:58] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:58] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:58] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:58] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:58] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:58] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:58] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:58] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:58] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:58] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:58] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:58] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:58] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:58] Data : [0, 1, 1, 0, 1, 0, 0, 0]
+[18/11/2024 16:43:58] Data : [0, 1, 1, 0, 1, 0, 0, 0]
+[18/11/2024 16:43:58] Data : [0, 1, 1, 0, 1, 0, 0, 0]
+[18/11/2024 16:43:58] Char Received: h
+
+[18/11/2024 16:43:58] Char Received: h
+
+[18/11/2024 16:43:58] Char Received: h
+
+[18/11/2024 16:43:58] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:58] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:58] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:58] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:58] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:58] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:58] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:58] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:58] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:59] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:59] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:59] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:59] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:59] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:59] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:59] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:59] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:43:59] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:59] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:43:59] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:43:59] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:43:59] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:43:59] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:43:59] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:43:59] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:43:59] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:43:59] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:43:59] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:43:59] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:43:59] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:43:59] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:43:59] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:43:59] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:43:59] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:43:59] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:43:59] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:00] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:00] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:00] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:00] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:00] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:00] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:00] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:00] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:00] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:00] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:00] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:00] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:00] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:00] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:00] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:00] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:00] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:00] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:00] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:00] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:00] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:00] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:00] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:00] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:00] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:00] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:00] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:00] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:00] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:00] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:00] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:00] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:00] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:00] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:00] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:00] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:00] Data : [0, 0, 1, 0, 0, 0, 0, 0]
+[18/11/2024 16:44:00] Data : [0, 0, 1, 0, 0, 0, 0, 0]
+[18/11/2024 16:44:00] Char Received:  
+
+[18/11/2024 16:44:00] Data : [0, 0, 1, 0, 0, 0, 0, 0]
+[18/11/2024 16:44:00] Char Received:  
+
+[18/11/2024 16:44:00] Char Received:  
+
+[18/11/2024 16:44:01] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:01] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:01] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:01] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:01] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:01] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:01] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:01] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:01] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:01] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:01] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:01] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:01] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:01] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:01] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:01] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:01] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:01] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:01] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:01] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:01] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:01] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:01] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:01] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:01] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:01] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:01] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:02] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:02] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:02] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:02] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:02] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:02] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:02] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:02] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:02] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:02] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:02] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:02] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:02] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:02] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:02] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:02] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:02] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:02] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:02] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:02] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:02] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:02] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:02] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:02] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:02] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:02] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:02] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:03] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:03] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:03] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:03] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:03] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:03] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:03] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:03] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:03] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:03] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:03] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:03] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:03] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:03] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:03] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:03] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:03] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:03] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:03] Data : [0, 1, 0, 0, 0, 0, 0, 1]
+[18/11/2024 16:44:03] Data : [0, 1, 0, 0, 0, 0, 0, 1]
+[18/11/2024 16:44:03] Data : [0, 1, 0, 0, 0, 0, 0, 1]
+[18/11/2024 16:44:03] Char Received: A
+
+[18/11/2024 16:44:03] Char Received: A
+
+[18/11/2024 16:44:03] Char Received: A
+
+[18/11/2024 16:44:03] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:03] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:03] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:03] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:03] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:03] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:03] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:03] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:03] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:03] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:03] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:03] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:03] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:03] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:03] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:03] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:03] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:03] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:04] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:04] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:04] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:04] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:04] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:04] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:04] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:04] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:04] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:04] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:04] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:04] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:04] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:04] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:04] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:04] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:04] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:04] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:04] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:04] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:04] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:04] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:04] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:04] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:04] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:04] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:04] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:05] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:05] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:05] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:05] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:05] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:05] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:05] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:05] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:05] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:05] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:05] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:05] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:05] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:05] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:05] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:05] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:05] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:05] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:05] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:05] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:05] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:05] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:05] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:05] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:05] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:05] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:05] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:05] Data : [0, 1, 1, 0, 0, 0, 1, 0]
+[18/11/2024 16:44:05] Data : [0, 1, 1, 0, 0, 0, 1, 0]
+[18/11/2024 16:44:05] Data : [0, 1, 1, 0, 0, 0, 1, 0]
+[18/11/2024 16:44:05] Char Received: b
+
+[18/11/2024 16:44:05] Char Received: b
+
+[18/11/2024 16:44:05] Char Received: b
+
+[18/11/2024 16:44:06] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:06] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:06] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:06] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:06] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:06] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:06] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:06] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:06] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:06] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:06] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:06] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:06] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:06] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:06] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:06] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:06] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:06] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:06] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:06] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:06] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:06] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:06] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:06] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:06] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:06] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:06] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:06] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:06] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:06] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:06] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:06] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:06] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:06] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:06] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:06] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:07] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:07] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:07] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:07] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:07] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:07] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:07] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:07] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:07] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:07] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:07] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:07] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:07] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:07] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:07] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:07] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:07] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:07] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:07] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:07] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:07] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:07] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:07] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:07] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:07] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:07] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:07] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:08] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:08] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:08] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:08] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:08] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:08] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:08] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:08] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:08] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:08] Data : [0, 1, 1, 1, 0, 0, 1, 0]
+[18/11/2024 16:44:08] Data : [0, 1, 1, 1, 0, 0, 1, 0]
+[18/11/2024 16:44:08] Char Received: r
+
+[18/11/2024 16:44:08] Char Received: r
+
+[18/11/2024 16:44:08] Data : [0, 1, 1, 1, 0, 0, 1, 0]
+[18/11/2024 16:44:08] Char Received: r
+
+[18/11/2024 16:44:08] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:08] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:08] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:08] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:08] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:08] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:08] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:08] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:08] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:08] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:08] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:08] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:08] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:08] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:08] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:08] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:08] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:08] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:09] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:09] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:09] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:09] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:09] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:09] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:09] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:09] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:09] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:09] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:09] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:09] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:09] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:09] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:09] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:09] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:09] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:09] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:09] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:09] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:09] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:09] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:09] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:09] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:09] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:09] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:09] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:09] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:09] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:09] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:09] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:09] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:09] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:09] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:09] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:09] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:10] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:10] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:10] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:10] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:10] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:10] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:10] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:10] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:10] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:10] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:10] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:10] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:10] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:10] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:10] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:10] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:10] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:10] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:10] Data : [0, 1, 1, 0, 1, 1, 1, 1]
+[18/11/2024 16:44:10] Data : [0, 1, 1, 0, 1, 1, 1, 1]
+[18/11/2024 16:44:10] Data : [0, 1, 1, 0, 1, 1, 1, 1]
+[18/11/2024 16:44:10] Char Received: o
+
+[18/11/2024 16:44:10] Char Received: o
+
+[18/11/2024 16:44:10] Char Received: o
+
+[18/11/2024 16:44:10] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:10] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:10] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:10] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:10] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:10] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:10] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:10] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:10] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:11] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:11] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:11] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:11] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:11] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:11] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:11] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:11] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:11] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:11] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:11] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:11] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:11] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:11] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:11] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:11] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:11] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:11] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:11] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:11] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:11] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:11] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:11] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:11] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:11] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:11] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:11] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:12] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:12] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:12] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:12] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:12] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:12] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:12] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:12] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:12] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:12] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:12] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:12] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:12] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:12] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:12] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:12] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:12] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:12] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:12] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:12] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:12] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:12] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:12] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:12] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:12] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:12] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:12] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:12] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:12] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:12] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:12] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:12] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:12] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:12] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:12] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:12] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:12] Data : [0, 1, 1, 0, 1, 1, 0, 0]
+[18/11/2024 16:44:12] Data : [0, 1, 1, 0, 1, 1, 0, 0]
+[18/11/2024 16:44:12] Data : [0, 1, 1, 0, 1, 1, 0, 0]
+[18/11/2024 16:44:12] Char Received: l
+
+[18/11/2024 16:44:12] Char Received: l
+
+[18/11/2024 16:44:12] Char Received: l
+
+[18/11/2024 16:44:13] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:13] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:13] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:13] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:13] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:13] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:13] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:13] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:13] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:13] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:13] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:13] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:13] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:13] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:13] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:13] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:13] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:13] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:13] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:13] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:13] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:13] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:13] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:13] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:13] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:13] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:13] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:14] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:14] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:14] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:14] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:14] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:14] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:14] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:14] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:14] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:14] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:14] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:14] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:14] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:14] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:14] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:14] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:14] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:14] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:14] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:14] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:14] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:14] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:14] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:14] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:14] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:14] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:14] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:15] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:15] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:15] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:15] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:15] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:15] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:15] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:15] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:15] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:15] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:15] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:15] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:15] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:15] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:15] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:15] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:15] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:15] Data : [0, 0, 1, 0, 0, 0, 0, 0]
+[18/11/2024 16:44:15] Data : [0, 0, 1, 0, 0, 0, 0, 0]
+[18/11/2024 16:44:15] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:15] Char Received:  
+
+[18/11/2024 16:44:15] Char Received:  
+
+[18/11/2024 16:44:15] Data : [0, 0, 1, 0, 0, 0, 0, 0]
+[18/11/2024 16:44:15] Char Received:  
+
+[18/11/2024 16:44:15] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:15] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:15] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:15] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:15] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:15] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:15] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:15] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:15] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:15] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:15] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:15] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:15] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:15] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:15] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:15] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:15] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:15] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:16] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:16] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:16] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:16] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:16] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:16] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:16] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:16] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:16] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:16] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:16] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:16] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:16] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:16] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:16] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:16] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:16] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:16] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:16] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:16] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:16] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:16] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:16] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:16] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:16] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:16] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:16] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:17] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:17] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:17] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:17] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:17] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:17] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:17] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:17] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:17] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:17] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:17] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:17] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:17] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:17] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:17] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:17] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:17] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:17] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:17] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:17] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:17] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:17] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:17] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:17] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:17] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:17] Data : [0, 1, 1, 1, 0, 1, 0, 0]
+[18/11/2024 16:44:17] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:17] Char Received: t
+
+[18/11/2024 16:44:17] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:17] Data : [0, 1, 1, 1, 0, 1, 0, 0]
+[18/11/2024 16:44:17] Data : [0, 1, 1, 1, 0, 1, 0, 0]
+[18/11/2024 16:44:17] Char Received: t
+
+[18/11/2024 16:44:17] Char Received: t
+
+[18/11/2024 16:44:18] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:18] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:18] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:18] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:18] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:18] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:18] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:18] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:18] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:18] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:18] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:18] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:18] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:18] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:18] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:18] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:18] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:18] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:18] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:18] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:18] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:18] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:18] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:18] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:18] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:18] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:18] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:18] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:18] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:18] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:18] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:18] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:18] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:18] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:18] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:18] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:19] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:19] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:19] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:19] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:19] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:19] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:19] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:19] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:19] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:19] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:19] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:19] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:19] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:19] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:19] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:19] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:19] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:19] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:19] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:19] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:19] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:19] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:19] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:19] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:19] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:19] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:19] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:20] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:20] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:20] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:20] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:20] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:20] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:20] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:20] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:20] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:20] Data : [0, 1, 1, 0, 0, 1, 0, 1]
+[18/11/2024 16:44:20] Data : [0, 1, 1, 0, 0, 1, 0, 1]
+[18/11/2024 16:44:20] Data : [0, 1, 1, 0, 0, 1, 0, 1]
+[18/11/2024 16:44:20] Char Received: e
+
+[18/11/2024 16:44:20] Char Received: e
+
+[18/11/2024 16:44:20] Char Received: e
+
+[18/11/2024 16:44:20] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:20] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:20] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:20] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:20] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:20] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:20] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:20] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:20] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:20] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:20] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:20] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:20] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:20] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:20] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:20] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:20] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:20] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:21] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:21] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:21] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:21] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:21] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:21] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:21] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:21] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:21] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:21] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:21] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:21] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:21] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:21] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:21] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:21] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:21] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:21] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:21] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:21] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:21] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:21] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:21] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:21] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:21] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:21] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:21] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:21] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:21] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:21] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:21] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:21] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:21] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:21] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:21] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:21] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:22] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:22] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:22] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:22] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:22] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:22] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:22] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:22] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:22] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:22] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:22] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:22] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:22] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:22] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:22] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:22] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:22] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:22] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:22] Data : [0, 1, 1, 1, 0, 0, 1, 1]
+[18/11/2024 16:44:22] Char Received: s
+
+[18/11/2024 16:44:22] Data : [0, 1, 1, 1, 0, 0, 1, 1]
+[18/11/2024 16:44:22] Data : [0, 1, 1, 1, 0, 0, 1, 1]
+[18/11/2024 16:44:22] Char Received: s
+
+[18/11/2024 16:44:22] Char Received: s
+
+[18/11/2024 16:44:22] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:22] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:22] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:22] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:22] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:22] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:22] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:22] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:22] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:23] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:23] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:23] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:23] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:23] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:23] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:23] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:23] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:23] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:23] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:23] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:23] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:23] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:23] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:23] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:23] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:23] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:23] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:23] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:23] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:23] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:23] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:23] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:23] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:23] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:23] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:23] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:24] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:24] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:24] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:24] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:24] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:24] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:24] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:24] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:24] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:24] SENDER-1 Data Bit Sent 1
+[18/11/2024 16:44:24] CHANNEL Passed [1, 1, 1, 1]
+[18/11/2024 16:44:24] SENDER-2 Data Bit Sent 1
+[18/11/2024 16:44:24] SENDER-3 Data Bit Sent 1
+[18/11/2024 16:44:24] CHANNEL Passed [1, -1, 1, -1]
+[18/11/2024 16:44:24] CHANNEL Passed [1, 1, -1, -1]
+[18/11/2024 16:44:24] RECEIVER-1 Bit Received: 1
+[18/11/2024 16:44:24] RECEIVER-2 Bit Received: 1
+[18/11/2024 16:44:24] RECEIVER-3 Bit Received: 1
+[18/11/2024 16:44:24] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:24] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:24] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:24] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:24] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:24] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:24] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:24] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:24] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:25] CHANNEL Passed [-1, 1, -1, 1]
+[18/11/2024 16:44:25] SENDER-3 Data Bit Sent -1
+[18/11/2024 16:44:25] SENDER-2 Data Bit Sent -1
+[18/11/2024 16:44:25] CHANNEL Passed [-1, -1, 1, 1]
+[18/11/2024 16:44:25] CHANNEL Passed [-1, -1, -1, -1]
+[18/11/2024 16:44:25] RECEIVER-3 Bit Received: 0
+[18/11/2024 16:44:25] SENDER-1 Data Bit Sent -1
+[18/11/2024 16:44:25] RECEIVER-1 Bit Received: 0
+[18/11/2024 16:44:25] RECEIVER-2 Bit Received: 0
+[18/11/2024 16:44:25] Data : [0, 1, 1, 1, 0, 1, 0, 0]
+[18/11/2024 16:44:25] Data : [0, 1, 1, 1, 0, 1, 0, 0]
+[18/11/2024 16:44:25] Char Received: t
+
+[18/11/2024 16:44:25] Data : [0, 1, 1, 1, 0, 1, 0, 0]
+[18/11/2024 16:44:25] Char Received: t
+
+[18/11/2024 16:44:25] Char Received: t
+
+[18/11/2024 16:44:25] SENDER-3 Ended Sending Data
+[18/11/2024 16:44:25] SENDER-2 Ended Sending Data
+[18/11/2024 16:44:25] SENDER-1 Ended Sending Data

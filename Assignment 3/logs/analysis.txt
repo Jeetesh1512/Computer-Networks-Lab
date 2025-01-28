@@ -1,0 +1,144 @@
+
+
++------------------------------------------------------------+
+
+	Stats For the CSMA Method:p-persistent, Sender Count:4
+
++------------------------------------------------------------+
+
+
+
++---------- 2024-11-18 15:14:25.462137 SENDER-1 STATS ----------+
+[*]	Total packets: 16
+[*]	Total Delay: 59.85 secs
+[*]	Total collisions: 0
+[*]	Throughput: 1.0
+[*]	Avg forwarding Delay: 3.74 secs
++------------------------------------------------------+
+
+
+
++---------- 2024-11-18 15:14:44.369705 SENDER-3 STATS ----------+
+[*]	Total packets: 16
+[*]	Total Delay: 78.76 secs
+[*]	Total collisions: 8
+[*]	Throughput: 0.667
+[*]	Avg forwarding Delay: 4.92 secs
++------------------------------------------------------+
+
+
+
++---------- 2024-11-18 15:14:47.570996 SENDER-4 STATS ----------+
+[*]	Total packets: 16
+[*]	Total Delay: 81.96 secs
+[*]	Total collisions: 7
+[*]	Throughput: 0.696
+[*]	Avg forwarding Delay: 5.12 secs
++------------------------------------------------------+
+
+
+
++---------- 2024-11-18 15:14:49.889179 SENDER-2 STATS ----------+
+[*]	Total packets: 16
+[*]	Total Delay: 84.28 secs
+[*]	Total collisions: 3
+[*]	Throughput: 0.842
+[*]	Avg forwarding Delay: 5.27 secs
++------------------------------------------------------+
+
+
+
++------------------------------------------------------------+
+
+	Stats For the CSMA Method:p-persistent, Sender Count:4
+
++------------------------------------------------------------+
+
+
+
++---------- 2024-11-18 16:17:23.402342 SENDER-3 STATS ----------+
+[*]	Total packets: 16
+[*]	Total Delay: 59.45 secs
+[*]	Total collisions: 1
+[*]	Throughput: 0.941
+[*]	Avg forwarding Delay: 3.72 secs
++------------------------------------------------------+
+
+
+
++---------- 2024-11-18 16:17:39.389424 SENDER-2 STATS ----------+
+[*]	Total packets: 16
+[*]	Total Delay: 75.43 secs
+[*]	Total collisions: 3
+[*]	Throughput: 0.842
+[*]	Avg forwarding Delay: 4.71 secs
++------------------------------------------------------+
+
+
+
++---------- 2024-11-18 16:17:42.061544 SENDER-1 STATS ----------+
+[*]	Total packets: 16
+[*]	Total Delay: 78.11 secs
+[*]	Total collisions: 4
+[*]	Throughput: 0.8
+[*]	Avg forwarding Delay: 4.88 secs
++------------------------------------------------------+
+
+
+
++---------- 2024-11-18 16:17:53.877936 SENDER-4 STATS ----------+
+[*]	Total packets: 16
+[*]	Total Delay: 89.92 secs
+[*]	Total collisions: 7
+[*]	Throughput: 0.696
+[*]	Avg forwarding Delay: 5.62 secs
++------------------------------------------------------+
+
+
+
++------------------------------------------------------------+
+
+	Stats For the CSMA Method:p-persistent, Sender Count:4
+
++------------------------------------------------------------+
+
+
+
++---------- 2024-11-18 16:37:07.832742 SENDER-2 STATS ----------+
+[*]	Total packets: 16
+[*]	Total Delay: 58.97 secs
+[*]	Total collisions: 3
+[*]	Throughput: 0.842
+[*]	Avg forwarding Delay: 3.69 secs
++------------------------------------------------------+
+
+
+
++---------- 2024-11-18 16:37:23.242217 SENDER-1 STATS ----------+
+[*]	Total packets: 16
+[*]	Total Delay: 74.38 secs
+[*]	Total collisions: 4
+[*]	Throughput: 0.8
+[*]	Avg forwarding Delay: 4.65 secs
++------------------------------------------------------+
+
+
+
++---------- 2024-11-18 16:37:30.346132 SENDER-3 STATS ----------+
+[*]	Total packets: 16
+[*]	Total Delay: 81.48 secs
+[*]	Total collisions: 7
+[*]	Throughput: 0.696
+[*]	Avg forwarding Delay: 5.09 secs
++------------------------------------------------------+
+
+
+
++---------- 2024-11-18 16:37:33.276511 SENDER-4 STATS ----------+
+[*]	Total packets: 16
+[*]	Total Delay: 84.42 secs
+[*]	Total collisions: 4
+[*]	Throughput: 0.8
+[*]	Avg forwarding Delay: 5.28 secs
++------------------------------------------------------+
+

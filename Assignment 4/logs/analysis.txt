@@ -1,0 +1,27 @@
+
+
++--------- 18/11/2024 16:44:25 SENDER-3 Statistics ---------+
+[+] Total Bits Transferred: 144
+[+] Total Time Taken: 43.31 seconds
+[+] Throughput: 3.325 bps
++------------------------------------------------------+
+
+
+
+
++--------- 18/11/2024 16:44:25 SENDER-2 Statistics ---------+
+[+] Total Bits Transferred: 144
+[+] Total Time Taken: 43.31 seconds
+[+] Throughput: 3.325 bps
++------------------------------------------------------+
+
+
+
+
++--------- 18/11/2024 16:44:25 SENDER-1 Statistics ---------+
+[+] Total Bits Transferred: 144
+[+] Total Time Taken: 43.31 seconds
+[+] Throughput: 3.325 bps
++------------------------------------------------------+
+
+

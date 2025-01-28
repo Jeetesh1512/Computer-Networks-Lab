@@ -1,0 +1,1432 @@
+
+
++------------------------------------------------------------+
+
+	Logs For the CSMA Method:p-persistent, Sender Count:4
+
++------------------------------------------------------------+
+
+
+[18/11/2024 15:13:25] Channel initialized.
+
+[18/11/2024 15:13:25] Sender 1 Starts sending to Receiver 1.
+
+[18/11/2024 15:13:25] Sender 3 Starts sending to Receiver 3.
+
+[18/11/2024 15:13:25] Sender 2 Starts sending to Receiver 2.
+
+[18/11/2024 15:13:25] Sender 4 Starts sending to Receiver 4.
+[18/11/2024 15:13:25] Sender 1 sent Packet 1 to Channel
+[18/11/2024 15:13:25] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:25] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:25] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:25] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:25] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:25] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:26] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:26] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:26] Sender 2 finds Channel is BUSY.
+[18/11/2024 15:13:26] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 15:13:26] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:26] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:26] Sender 4 sent Packet 1 to Channel
+[18/11/2024 15:13:26] Sender 2 sent Packet 1 to Channel
+[18/11/2024 15:13:26] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:27] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:27] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:27] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:27] Sender 1 finds Channel is BUSY.
+[18/11/2024 15:13:27] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 15:13:27] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:27] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:28] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:28] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:28] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:28] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:13:28] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 15:13:28] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:28] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:28] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:28] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:28] Sender 2 sent Packet 2 to Channel
+[18/11/2024 15:13:28] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:29] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:29] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:29] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:29] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:29] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:29] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:13:29] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 15:13:30] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:30] Sender 3 sent Packet 1 to Channel
+[18/11/2024 15:13:30] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:30] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:30] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:30] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:30] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:30] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:30] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:30] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:13:31] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 15:13:31] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:31] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:31] Sender 1 sent Packet 2 to Channel
+[18/11/2024 15:13:31] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:31] Sender 3 encounters COLLISION.[18/11/2024 15:13:31] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:31] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:31] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:31] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:31] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:32] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:32] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:32] Sender 3 finds Channel is BUSY.
+[18/11/2024 15:13:32] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 15:13:32] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:32] Sender 4 sent Packet 2 to Channel
+[18/11/2024 15:13:32] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:32] Sender 2 encounters COLLISION.[18/11/2024 15:13:32] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:32] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:33] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:33] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:33] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:33] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:33] Sender 3 finds Channel is BUSY.
+[18/11/2024 15:13:33] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 15:13:33] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:33] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:34] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:34] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:34] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:34] Sender 2 sent Packet 3 to Channel
+[18/11/2024 15:13:34] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:34] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:34] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:34] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:34] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:34] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:13:35] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 15:13:35] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:35] Sender 1 sent Packet 3 to Channel
+[18/11/2024 15:13:35] Sender 3 sent Packet 2 to Channel
+[18/11/2024 15:13:35] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:35] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:35] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:36] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:36] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:13:36] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 15:13:36] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:36] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:36] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:36] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:36] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:36] Sender 3 finds Channel is BUSY.
+[18/11/2024 15:13:37] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 15:13:37] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:37] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:37] Sender 2 sent Packet 4 to Channel
+[18/11/2024 15:13:37] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:37] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:37] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:37] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:37] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:37] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:38] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:13:38] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 15:13:38] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:38] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:38] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:38] Sender 4 sent Packet 3 to Channel
+[18/11/2024 15:13:38] Sender 2 encounters COLLISION.[18/11/2024 15:13:38] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:38] Sender 3 encounters COLLISION.[18/11/2024 15:13:38] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:38] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:38] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:39] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:39] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:39] Sender 1 finds Channel is BUSY.
+[18/11/2024 15:13:39] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 15:13:39] Sender 4 sent Packet 4 to Channel
+[18/11/2024 15:13:39] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:39] Sender 3 encounters COLLISION.[18/11/2024 15:13:39] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:39] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:40] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:40] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:40] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:40] Sender 2 finds Channel is BUSY.
+[18/11/2024 15:13:40] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 15:13:40] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:40] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:40] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:41] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:41] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:41] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:41] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:41] Sender 2 sent Packet 5 to Channel
+[18/11/2024 15:13:41] Sender 4 encounters COLLISION.[18/11/2024 15:13:41] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:41] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:41] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:41] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:41] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:41] Sender 1 finds Channel is BUSY.
+[18/11/2024 15:13:42] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 15:13:42] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:42] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:42] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:42] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:42] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:42] Sender 3 sent Packet 3 to Channel
+[18/11/2024 15:13:42] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:42] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:42] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:42] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:42] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:43] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:43] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:43] Sender 1 finds Channel is BUSY.
+[18/11/2024 15:13:43] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 15:13:43] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:43] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:43] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:43] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:44] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:44] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:44] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:44] Sender 1 sent Packet 4 to Channel
+[18/11/2024 15:13:44] Sender 3 encounters COLLISION.[18/11/2024 15:13:44] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:44] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:44] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:44] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:44] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:44] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:13:45] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 15:13:45] Sender 1 sent Packet 5 to Channel
+[18/11/2024 15:13:45] Sender 3 encounters COLLISION.[18/11/2024 15:13:45] Sender 2 encounters COLLISION.[18/11/2024 15:13:45] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:45] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:45] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:45] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:45] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:45] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:46] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:13:46] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 15:13:46] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:46] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:46] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:46] Sender 1 sent Packet 6 to Channel
+[18/11/2024 15:13:46] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:46] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:46] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:46] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:46] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:46] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:47] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:47] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:47] Sender 2 finds Channel is BUSY.
+[18/11/2024 15:13:47] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 15:13:47] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:47] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:47] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:48] Sender 2 sent Packet 6 to Channel
+[18/11/2024 15:13:48] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:48] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:48] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:48] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:48] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:48] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:48] Sender 1 finds Channel is BUSY.
+[18/11/2024 15:13:48] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 15:13:49] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:49] Sender 4 sent Packet 5 to Channel
+[18/11/2024 15:13:49] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:49] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:49] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:49] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:49] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:49] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:50] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:50] Sender 1 finds Channel is BUSY.
+[18/11/2024 15:13:50] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 15:13:50] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:50] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:50] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:50] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:50] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:50] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:50] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:50] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:50] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:50] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:51] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:51] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:51] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:51] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:51] Sender 3 sent Packet 4 to Channel
+[18/11/2024 15:13:51] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:51] Sender 4 encounters COLLISION.[18/11/2024 15:13:51] Sender 2 sent Packet 7 to Channel
+[18/11/2024 15:13:51] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:51] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:51] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:52] Sender 1 finds Channel is BUSY.
+[18/11/2024 15:13:52] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 15:13:52] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:52] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:52] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:52] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:52] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:52] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:13:52] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 15:13:52] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:53] Sender 1 sent Packet 7 to Channel
+[18/11/2024 15:13:53] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:53] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:53] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:53] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:53] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:13:53] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 15:13:53] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:54] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:54] Sender 3 sent Packet 5 to Channel
+[18/11/2024 15:13:54] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:54] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:54] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:54] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:54] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:54] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:55] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:55] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:55] Sender 2 finds Channel is BUSY.
+[18/11/2024 15:13:55] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 15:13:55] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:55] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:55] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:55] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:55] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:55] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:55] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:55] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:55] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:56] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:56] Sender 4 sent Packet 6 to Channel
+[18/11/2024 15:13:56] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:56] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:56] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:56] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:56] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:56] Sender 1 finds Channel is BUSY.[18/11/2024 15:13:56] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:56] Sender 2 finds Channel is BUSY.
+[18/11/2024 15:13:57] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 15:13:57] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:57] Sender 1 sent Packet 8 to Channel
+[18/11/2024 15:13:57] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:57] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:57] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:57] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:57] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:57] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:58] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:58] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:58] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:13:58] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 15:13:58] Sender 1 sent Packet 9 to Channel
+[18/11/2024 15:13:58] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:58] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:58] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:59] Sender 2 finds Channel is BUSY.[18/11/2024 15:13:59] Sender 3 finds Channel is BUSY.[18/11/2024 15:13:59] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:13:59] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 15:13:59] Sender 1 sent Packet 10 to Channel
+[18/11/2024 15:13:59] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:13:59] Sender 3 encounters COLLISION.[18/11/2024 15:13:59] Sender 4 finds Channel is BUSY.[18/11/2024 15:13:59] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:00] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:00] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:00] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:00] Sender 2 finds Channel is BUSY.
+[18/11/2024 15:14:00] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 15:14:00] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:00] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:00] Sender 3 sent Packet 6 to Channel
+[18/11/2024 15:14:01] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:01] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:01] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:01] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:01] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:01] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:14:01] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 15:14:01] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:02] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:02] Sender 1 sent Packet 11 to Channel
+[18/11/2024 15:14:02] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:02] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:02] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:02] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:02] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:02] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:02] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:14:02] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 15:14:03] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:03] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:03] Sender 2 sent Packet 8 to Channel
+[18/11/2024 15:14:03] Sender 4 encounters COLLISION.[18/11/2024 15:14:03] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:03] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:03] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:03] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:03] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:03] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:04] Sender 1 finds Channel is BUSY.
+[18/11/2024 15:14:04] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 15:14:04] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:04] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:04] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:04] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:04] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:04] Sender 4 sent Packet 7 to Channel
+[18/11/2024 15:14:04] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:04] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:04] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:04] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:05] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:05] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:05] Sender 3 finds Channel is BUSY.
+[18/11/2024 15:14:05] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 15:14:05] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:05] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:05] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:05] Sender 3 sent Packet 7 to Channel
+[18/11/2024 15:14:06] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:06] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:06] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:06] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:06] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:06] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:06] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:14:06] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 15:14:07] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:07] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:07] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:07] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:07] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:07] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:07] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:07] Sender 4 sent Packet 8 to Channel
+[18/11/2024 15:14:07] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:07] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:07] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:07] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:07] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:07] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:08] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:08] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:08] Sender 2 finds Channel is BUSY.
+[18/11/2024 15:14:08] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 15:14:08] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:08] Sender 3 sent Packet 8 to Channel
+[18/11/2024 15:14:08] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:08] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:08] Sender 4 encounters COLLISION.[18/11/2024 15:14:08] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:09] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:09] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:09] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:09] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:09] Sender 2 finds Channel is BUSY.
+[18/11/2024 15:14:09] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 15:14:09] Sender 3 sent Packet 9 to Channel
+[18/11/2024 15:14:09] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:10] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:10] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:10] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:10] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:10] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:10] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:14:10] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 15:14:11] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:11] Sender 1 sent Packet 12 to Channel
+[18/11/2024 15:14:11] Sender 2 sent Packet 9 to Channel
+[18/11/2024 15:14:11] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:11] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:11] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:11] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:12] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:14:12] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 15:14:12] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:12] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:12] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:12] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:12] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:12] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:12] Sender 3 finds Channel is BUSY.
+[18/11/2024 15:14:12] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 15:14:13] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:13] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:13] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:13] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:13] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:13] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:13] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:13] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:13] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:13] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:13] Sender 2 sent Packet 10 to Channel
+[18/11/2024 15:14:13] Sender 4 encounters COLLISION.[18/11/2024 15:14:13] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:13] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:14] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:14] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:14] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:14] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:14] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:14] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:14:14] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 15:14:14] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:15] Sender 1 sent Packet 13 to Channel
+[18/11/2024 15:14:15] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:15] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:15] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:15] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:15] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:15] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:15] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:15] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:15] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:14:15] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 15:14:16] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:16] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:16] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:16] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:16] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:16] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:16] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:16] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:16] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:16] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:16] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:16] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:16] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:17] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:17] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:17] Sender 1 sent Packet 14 to Channel
+[18/11/2024 15:14:17] Sender 4 encounters COLLISION.[18/11/2024 15:14:17] Sender 4 sent Packet 9 to Channel
+[18/11/2024 15:14:17] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:17] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:17] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:17] Sender 2 finds Channel is BUSY.
+[18/11/2024 15:14:18] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 15:14:18] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:18] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:18] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:18] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:18] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:18] Sender 3 finds Channel is BUSY.
+[18/11/2024 15:14:18] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 15:14:18] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:18] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:19] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:19] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:19] Sender 3 sent Packet 10 to Channel
+[18/11/2024 15:14:19] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:19] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:19] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:19] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:19] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:19] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:20] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:20] Sender 2 finds Channel is BUSY.
+[18/11/2024 15:14:20] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 15:14:20] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:20] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:20] Sender 4 sent Packet 10 to Channel
+[18/11/2024 15:14:20] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:20] Sender 3 encounters COLLISION.[18/11/2024 15:14:20] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:20] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:20] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:21] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:21] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:21] Sender 2 finds Channel is BUSY.
+[18/11/2024 15:14:21] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 15:14:21] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:21] Sender 1 sent Packet 15 to Channel
+[18/11/2024 15:14:21] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:21] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:21] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:22] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:22] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:22] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:22] Sender 3 finds Channel is BUSY.
+[18/11/2024 15:14:22] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 15:14:22] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:22] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:22] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:23] Sender 3 sent Packet 11 to Channel
+[18/11/2024 15:14:23] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:23] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:23] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:23] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:23] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:23] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:23] Sender 1 finds Channel is BUSY.[18/11/2024 15:14:23] Sender 2 finds Channel is BUSY.
+[18/11/2024 15:14:23] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 15:14:24] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:24] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:24] Sender 1 sent Packet 16 to Channel
+[18/11/2024 15:14:24] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:24] Sender 3 encounters COLLISION.[18/11/2024 15:14:24] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:24] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:24] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:24] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:25] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:25] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:25] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:14:25] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+
+
+**********[18/11/2024 15:14:25] Sender 1 FINISHES sending data*********
+
+[18/11/2024 15:14:25] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:25] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:25] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:25] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:25] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:25] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:26] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:26] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:26] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:26] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:26] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:26] Sender 4 sent Packet 11 to Channel
+[18/11/2024 15:14:26] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:26] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:26] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:27] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:27] Sender 3 finds Channel is BUSY.
+[18/11/2024 15:14:27] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 15:14:27] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:27] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:27] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:27] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:27] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:28] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:28] Sender 4 sent Packet 12 to Channel
+[18/11/2024 15:14:28] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:28] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:28] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:28] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:28] Sender 2 finds Channel is BUSY.
+[18/11/2024 15:14:28] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 15:14:29] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:29] Sender 3 sent Packet 12 to Channel
+[18/11/2024 15:14:29] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:29] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:29] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:29] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:14:30] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 15:14:30] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:30] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:30] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:30] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:30] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:30] Sender 4 sent Packet 13 to Channel
+[18/11/2024 15:14:30] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:30] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:31] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:31] Sender 2 finds Channel is BUSY.
+[18/11/2024 15:14:31] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 15:14:31] Sender 4 sent Packet 14 to Channel
+[18/11/2024 15:14:31] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:31] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:32] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:32] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:32] Sender 3 finds Channel is BUSY.
+[18/11/2024 15:14:32] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 15:14:32] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:32] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:33] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:33] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:33] Sender 2 sent Packet 11 to Channel
+[18/11/2024 15:14:33] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:33] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:33] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:33] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:14:34] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 15:14:34] Sender 2 sent Packet 12 to Channel
+[18/11/2024 15:14:34] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:34] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:34] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:34] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:35] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:35] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:14:35] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 15:14:35] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:35] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:35] Sender 3 sent Packet 13 to Channel
+[18/11/2024 15:14:35] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:35] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:35] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:36] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:36] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:14:36] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 15:14:36] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:36] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:36] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:37] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:37] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:37] Sender 4 sent Packet 15 to Channel
+[18/11/2024 15:14:37] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:37] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:37] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:37] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:38] Sender 3 finds Channel is BUSY.
+[18/11/2024 15:14:38] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 15:14:38] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:38] Sender 2 sent Packet 13 to Channel
+[18/11/2024 15:14:38] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:38] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:38] Sender 3 finds Channel is BUSY.[18/11/2024 15:14:39] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:39] Sender 3 finds Channel is BUSY.
+[18/11/2024 15:14:39] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 15:14:39] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:39] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:39] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:39] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:39] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:40] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:40] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:40] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:40] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:40] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:40] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:40] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:40] Sender 3 sent Packet 14 to Channel
+[18/11/2024 15:14:40] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:40] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:40] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:41] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:41] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:14:41] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 15:14:41] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:41] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:41] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:41] Sender 3 sent Packet 15 to Channel
+[18/11/2024 15:14:42] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:42] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:42] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:42] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:14:42] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 15:14:43] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:43] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:43] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:43] Sender 3 sent Packet 16 to Channel
+[18/11/2024 15:14:43] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:43] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:43] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:43] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:44] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:44] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:14:44] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+
+
+**********[18/11/2024 15:14:44] Sender 3 FINISHES sending data*********
+
+[18/11/2024 15:14:44] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:44] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:44] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:44] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:45] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:45] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:45] Sender 2 sent Packet 14 to Channel
+[18/11/2024 15:14:45] Sender 4 encounters COLLISION.[18/11/2024 15:14:45] Sender 4 finds Channel is BUSY.[18/11/2024 15:14:45] Sender 4 finds Channel is BUSY.
+[18/11/2024 15:14:46] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 15:14:46] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 15:14:46] Sender 4 sent Packet 16 to Channel
+[18/11/2024 15:14:46] Sender 2 finds Channel is BUSY.[18/11/2024 15:14:47] Sender 2 finds Channel is BUSY.
+[18/11/2024 15:14:47] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+
+
+**********[18/11/2024 15:14:47] Sender 4 FINISHES sending data*********
+
+[18/11/2024 15:14:47] Sender 2 sent Packet 15 to Channel
+
+[18/11/2024 15:14:48] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 15:14:48] Sender 2 sent Packet 16 to Channel
+
+[18/11/2024 15:14:49] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+
+
+**********[18/11/2024 15:14:49] Sender 2 FINISHES sending data*********
+
+
+
++------------------------------------------------------------+
+
+	Logs For the CSMA Method:p-persistent, Sender Count:4
+
++------------------------------------------------------------+
+
+
+[18/11/2024 16:16:23] Channel initialized.
+
+[18/11/2024 16:16:23] Sender 1 Starts sending to Receiver 1.
+
+[18/11/2024 16:16:23] Sender 3 Starts sending to Receiver 3.
+
+[18/11/2024 16:16:23] Sender 2 Starts sending to Receiver 2.
+[18/11/2024 16:16:23] Sender 3 is WAITING, wait period:0.25secs.
+
+[18/11/2024 16:16:23] Sender 4 Starts sending to Receiver 4.
+[18/11/2024 16:16:23] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:23] Sender 1 sent Packet 1 to Channel
+[18/11/2024 16:16:23] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:24] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:24] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:24] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:24] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:24] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:24] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:16:24] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:16:25] Sender 1 sent Packet 2 to Channel
+[18/11/2024 16:16:25] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:25] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:25] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:25] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:25] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:25] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:16:25] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:16:26] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:26] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:26] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:26] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:26] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:26] Sender 3 sent Packet 1 to Channel
+[18/11/2024 16:16:26] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:26] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:26] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:26] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:26] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:27] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:27] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:27] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:16:27] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:16:27] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:27] Sender 1 sent Packet 3 to Channel
+[18/11/2024 16:16:27] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:27] Sender 4 encounters COLLISION.[18/11/2024 16:16:27] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:27] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:27] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:28] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:28] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:28] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:16:28] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:16:28] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:28] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:28] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:28] Sender 2 sent Packet 1 to Channel
+[18/11/2024 16:16:29] Sender 1 encounters COLLISION.[18/11/2024 16:16:29] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:29] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:29] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:29] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:29] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:29] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:29] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:29] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:16:29] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:16:30] Sender 2 sent Packet 2 to Channel
+[18/11/2024 16:16:30] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:30] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:30] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:30] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:30] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:30] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:30] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:16:30] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:16:31] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:31] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:31] Sender 4 sent Packet 1 to Channel
+[18/11/2024 16:16:31] Sender 1 encounters COLLISION.[18/11/2024 16:16:31] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:31] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:31] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:31] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:32] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:32] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:32] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:16:32] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:16:32] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:32] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:32] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:32] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:32] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:32] Sender 1 sent Packet 4 to Channel
+[18/11/2024 16:16:32] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:32] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:32] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:33] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:33] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:33] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:33] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:16:33] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:16:33] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:33] Sender 2 sent Packet 3 to Channel
+[18/11/2024 16:16:33] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:34] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:34] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:34] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:34] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:34] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:34] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:16:34] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:16:35] Sender 2 sent Packet 4 to Channel
+[18/11/2024 16:16:35] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:35] Sender 1 encounters COLLISION.[18/11/2024 16:16:35] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:35] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:35] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:35] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:35] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:35] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:16:35] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:16:36] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:36] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:36] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:36] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:36] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:36] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:36] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:36] Sender 3 sent Packet 2 to Channel
+[18/11/2024 16:16:36] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:36] Sender 4 encounters COLLISION.[18/11/2024 16:16:36] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:36] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:36] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:37] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:37] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:37] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:16:37] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:16:37] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:37] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:37] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:37] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:37] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:38] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:38] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:38] Sender 2 sent Packet 5 to Channel
+[18/11/2024 16:16:38] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:38] Sender 1 encounters COLLISION.[18/11/2024 16:16:38] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:38] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:38] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:38] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:38] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:38] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:16:39] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:16:39] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:39] Sender 4 sent Packet 2 to Channel
+[18/11/2024 16:16:39] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:39] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:39] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:39] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:39] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:40] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:40] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:16:40] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:16:40] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:40] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:40] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:40] Sender 1 sent Packet 5 to Channel
+[18/11/2024 16:16:40] Sender 4 encounters COLLISION.[18/11/2024 16:16:40] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:40] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:40] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:41] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:41] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:41] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:16:41] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:16:41] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:41] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:41] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:41] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:41] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:42] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:42] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:42] Sender 4 sent Packet 3 to Channel
+[18/11/2024 16:16:42] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:42] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:42] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:42] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:42] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:42] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:16:42] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:16:43] Sender 4 sent Packet 4 to Channel
+[18/11/2024 16:16:43] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:43] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:43] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:43] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:43] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:43] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:43] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:44] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:16:44] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:16:44] Sender 4 sent Packet 5 to Channel
+[18/11/2024 16:16:44] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:44] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:44] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:44] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:44] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:45] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:45] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:16:45] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:16:45] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:45] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:45] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:45] Sender 2 sent Packet 6 to Channel
+[18/11/2024 16:16:45] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:45] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:45] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:45] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:46] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:46] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:46] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:16:46] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:16:46] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:46] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:46] Sender 3 sent Packet 3 to Channel
+[18/11/2024 16:16:46] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:46] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:47] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:47] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:47] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:47] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:47] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:16:47] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:16:47] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:47] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:48] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:48] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:48] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:48] Sender 2 sent Packet 7 to Channel
+[18/11/2024 16:16:48] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:48] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:48] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:48] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:48] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:48] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:49] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:16:49] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:16:49] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:49] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:49] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:49] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:49] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:49] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:49] Sender 3 sent Packet 4 to Channel
+[18/11/2024 16:16:49] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:49] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:49] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:50] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:50] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:50] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:16:50] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:16:50] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:50] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:50] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:50] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:50] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:51] Sender 2 sent Packet 8 to Channel
+[18/11/2024 16:16:51] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:51] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:51] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:51] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:51] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:51] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:51] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:51] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:16:51] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:16:52] Sender 2 sent Packet 9 to Channel
+[18/11/2024 16:16:52] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:52] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:52] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:52] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:52] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:52] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:16:53] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:16:53] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:53] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:53] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:53] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:53] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:53] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:53] Sender 1 sent Packet 6 to Channel
+[18/11/2024 16:16:53] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:53] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:53] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:53] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:54] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:54] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:54] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:16:54] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:16:54] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:54] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:54] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:54] Sender 1 sent Packet 7 to Channel
+[18/11/2024 16:16:54] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:54] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:54] Sender 3 sent Packet 5 to Channel
+[18/11/2024 16:16:55] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:55] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:55] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:55] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:16:55] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:16:55] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:56] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:56] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:56] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:56] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:16:56] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:16:56] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:56] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:56] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:56] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:56] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:56] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:57] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:57] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:57] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:57] Sender 1 sent Packet 8 to Channel
+[18/11/2024 16:16:57] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:57] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:57] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:57] Sender 3 finds Channel is BUSY.[18/11/2024 16:16:57] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:57] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:58] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:16:58] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:16:58] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:58] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:58] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:58] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:58] Sender 3 sent Packet 6 to Channel
+[18/11/2024 16:16:58] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:58] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:58] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:58] Sender 4 finds Channel is BUSY.[18/11/2024 16:16:59] Sender 2 finds Channel is BUSY.[18/11/2024 16:16:59] Sender 1 finds Channel is BUSY.[18/11/2024 16:16:59] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:16:59] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:16:59] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:59] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:59] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:59] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:16:59] Sender 3 sent Packet 7 to Channel
+[18/11/2024 16:16:59] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:00] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:00] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:00] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:00] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:00] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:00] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:17:00] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:17:01] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:01] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:01] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:01] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:01] Sender 3 sent Packet 8 to Channel
+[18/11/2024 16:17:01] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:01] Sender 4 encounters COLLISION.[18/11/2024 16:17:01] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:01] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:01] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:01] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:02] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:02] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:17:02] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:17:02] Sender 3 sent Packet 9 to Channel
+[18/11/2024 16:17:02] Sender 2 encounters COLLISION.[18/11/2024 16:17:02] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:02] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:02] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:02] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:03] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:03] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:03] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:17:03] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:17:03] Sender 3 sent Packet 10 to Channel
+[18/11/2024 16:17:03] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:03] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:03] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:03] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:03] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:04] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:04] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:04] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:17:04] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:17:04] Sender 3 sent Packet 11 to Channel
+[18/11/2024 16:17:04] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:04] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:04] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:05] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:05] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:05] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:17:05] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:17:05] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:05] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:05] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:05] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:05] Sender 3 sent Packet 12 to Channel
+[18/11/2024 16:17:06] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:06] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:06] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:06] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:06] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:06] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:06] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:17:06] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:17:07] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:07] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:07] Sender 1 sent Packet 9 to Channel
+[18/11/2024 16:17:07] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:07] Sender 3 finds Channel is BUSY.[18/11/2024 16:17:07] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:07] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:07] Sender 3 finds Channel is BUSY.[18/11/2024 16:17:07] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:17:08] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:17:08] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:08] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:08] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:08] Sender 2 sent Packet 10 to Channel
+[18/11/2024 16:17:08] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:08] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:08] Sender 3 finds Channel is BUSY.[18/11/2024 16:17:08] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:09] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:09] Sender 3 finds Channel is BUSY.[18/11/2024 16:17:09] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:17:09] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:17:09] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:09] Sender 4 sent Packet 6 to Channel
+[18/11/2024 16:17:09] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:09] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:09] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:09] Sender 3 finds Channel is BUSY.[18/11/2024 16:17:10] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:10] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:10] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:17:10] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:17:10] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:10] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:10] Sender 1 sent Packet 10 to Channel
+[18/11/2024 16:17:10] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:10] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:10] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:11] Sender 3 finds Channel is BUSY.[18/11/2024 16:17:11] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:11] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:11] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:17:11] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:17:11] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:11] Sender 4 sent Packet 7 to Channel
+[18/11/2024 16:17:11] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:12] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:12] Sender 3 finds Channel is BUSY.[18/11/2024 16:17:12] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:12] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:12] Sender 3 finds Channel is BUSY.[18/11/2024 16:17:12] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:17:12] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:17:13] Sender 4 sent Packet 8 to Channel
+[18/11/2024 16:17:13] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:13] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:13] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:13] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:13] Sender 3 finds Channel is BUSY.[18/11/2024 16:17:13] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:13] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:13] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:17:13] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:17:14] Sender 4 sent Packet 9 to Channel
+[18/11/2024 16:17:14] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:14] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:14] Sender 3 finds Channel is BUSY.[18/11/2024 16:17:14] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:14] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:14] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:17:15] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:17:15] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:15] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:15] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:15] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:15] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:15] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:15] Sender 1 sent Packet 11 to Channel
+[18/11/2024 16:17:15] Sender 3 encounters COLLISION.[18/11/2024 16:17:15] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:15] Sender 3 finds Channel is BUSY.[18/11/2024 16:17:15] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:15] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:16] Sender 3 finds Channel is BUSY.[18/11/2024 16:17:16] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:16] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:17:16] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:17:16] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:16] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:16] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:16] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:16] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:16] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:16] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:17] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:17] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:17] Sender 3 sent Packet 13 to Channel
+[18/11/2024 16:17:17] Sender 2 encounters COLLISION.[18/11/2024 16:17:17] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:17] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:17] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:17] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:17] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:17] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:17:18] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:17:18] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:18] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:18] Sender 1 sent Packet 12 to Channel
+[18/11/2024 16:17:18] Sender 4 encounters COLLISION.[18/11/2024 16:17:18] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:18] Sender 3 finds Channel is BUSY.[18/11/2024 16:17:18] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:18] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:19] Sender 3 finds Channel is BUSY.[18/11/2024 16:17:19] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:19] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:17:19] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:17:19] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:19] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:19] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:19] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:19] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:19] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:19] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:20] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:20] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:20] Sender 3 sent Packet 14 to Channel
+[18/11/2024 16:17:20] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:20] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:20] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:20] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:20] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:20] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:20] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:17:20] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:17:21] Sender 3 sent Packet 15 to Channel
+[18/11/2024 16:17:21] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:21] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:21] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:21] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:21] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:21] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:17:22] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:17:22] Sender 3 sent Packet 16 to Channel
+[18/11/2024 16:17:22] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:22] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:22] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:22] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:22] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:22] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:23] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:23] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:23] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:17:23] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+
+
+**********[18/11/2024 16:17:23] Sender 3 FINISHES sending data*********
+
+[18/11/2024 16:17:23] Sender 1 sent Packet 13 to Channel
+[18/11/2024 16:17:23] Sender 4 sent Packet 10 to Channel
+[18/11/2024 16:17:23] Sender 2 encounters COLLISION.[18/11/2024 16:17:23] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:24] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:17:24] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:17:24] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:24] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:24] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:25] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:25] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:25] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:17:25] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:17:25] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:25] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:25] Sender 2 sent Packet 11 to Channel
+[18/11/2024 16:17:25] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:25] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:26] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:26] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:17:26] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:17:26] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:26] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:26] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:27] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:27] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:27] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:27] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:27] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:27] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:27] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:27] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:27] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:27] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:27] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:27] Sender 4 sent Packet 11 to Channel
+[18/11/2024 16:17:28] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:28] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:28] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:28] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:17:28] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:17:29] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:29] Sender 2 sent Packet 12 to Channel
+[18/11/2024 16:17:29] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:29] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:29] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:29] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:29] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:17:30] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:17:30] Sender 2 sent Packet 13 to Channel
+[18/11/2024 16:17:30] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:30] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:30] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:30] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:17:31] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:17:31] Sender 2 sent Packet 14 to Channel
+[18/11/2024 16:17:31] Sender 4 encounters COLLISION.[18/11/2024 16:17:31] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:31] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:31] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:31] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:17:32] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:17:32] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:32] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:32] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:32] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:32] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:32] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:32] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:32] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:32] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:33] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:33] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:33] Sender 1 sent Packet 14 to Channel
+[18/11/2024 16:17:33] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:33] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:33] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:33] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:17:34] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:17:34] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:34] Sender 2 sent Packet 15 to Channel
+[18/11/2024 16:17:34] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:34] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:34] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:35] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:35] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:17:35] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:17:35] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:35] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:35] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:35] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:35] Sender 1 sent Packet 15 to Channel
+[18/11/2024 16:17:35] Sender 4 sent Packet 12 to Channel
+[18/11/2024 16:17:36] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:36] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:17:36] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:17:36] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:37] Sender 2 finds Channel is BUSY.[18/11/2024 16:17:37] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:37] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:37] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:17:37] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:17:37] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:37] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:38] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:38] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:38] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:38] Sender 2 sent Packet 16 to Channel
+[18/11/2024 16:17:38] Sender 4 encounters COLLISION.[18/11/2024 16:17:38] Sender 4 sent Packet 13 to Channel
+[18/11/2024 16:17:38] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:38] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:17:39] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+
+
+**********[18/11/2024 16:17:39] Sender 2 FINISHES sending data*********
+
+[18/11/2024 16:17:39] Sender 1 finds Channel is BUSY.[18/11/2024 16:17:39] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:39] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:17:39] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:17:40] Sender 4 sent Packet 14 to Channel
+[18/11/2024 16:17:40] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:17:40] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:17:40] Sender 1 sent Packet 16 to Channel
+[18/11/2024 16:17:41] Sender 4 finds Channel is BUSY.[18/11/2024 16:17:41] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:17:41] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+
+
+**********[18/11/2024 16:17:42] Sender 1 FINISHES sending data*********
+
+[18/11/2024 16:17:42] Sender 4 sent Packet 15 to Channel
+
+[18/11/2024 16:17:43] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:17:43] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:43] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:43] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:43] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:44] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:44] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:44] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:44] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:45] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:45] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:45] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:45] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:46] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:46] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:46] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:46] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:47] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:47] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:47] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:47] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:48] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:48] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:48] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:49] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:49] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:49] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:49] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:50] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:50] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:50] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:50] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:51] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:51] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:51] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:51] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:52] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:52] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:52] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:17:52] Sender 4 sent Packet 16 to Channel
+
+[18/11/2024 16:17:53] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+
+
+**********[18/11/2024 16:17:53] Sender 4 FINISHES sending data*********
+
+
+
++------------------------------------------------------------+
+
+	Logs For the CSMA Method:p-persistent, Sender Count:4
+
++------------------------------------------------------------+
+
+
+[18/11/2024 16:36:08] Channel initialized.
+
+[18/11/2024 16:36:08] Sender 1 Starts sending to Receiver 1.
+
+[18/11/2024 16:36:08] Sender 2 Starts sending to Receiver 2.
+[18/11/2024 16:36:08] Sender 1 is WAITING, wait period:0.25secs.
+
+[18/11/2024 16:36:08] Sender 4 Starts sending to Receiver 4.
+[18/11/2024 16:36:08] Sender 2 is WAITING, wait period:0.25secs.
+
+[18/11/2024 16:36:08] Sender 3 Starts sending to Receiver 3.
+[18/11/2024 16:36:08] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:08] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:09] Sender 1 sent Packet 1 to Channel
+[18/11/2024 16:36:09] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:09] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:09] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:09] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:09] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:09] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:09] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:09] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:09] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:36:10] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:36:10] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:10] Sender 2 sent Packet 1 to Channel
+[18/11/2024 16:36:10] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:10] Sender 3 encounters COLLISION.[18/11/2024 16:36:10] Sender 1 encounters COLLISION.[18/11/2024 16:36:10] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:10] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:10] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:10] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:11] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:11] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:11] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:36:11] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:36:11] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:11] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:11] Sender 4 sent Packet 1 to Channel
+[18/11/2024 16:36:11] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:11] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:11] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:11] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:12] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:12] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:12] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:36:12] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:36:12] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:12] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:12] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:12] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:12] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:12] Sender 3 sent Packet 1 to Channel
+[18/11/2024 16:36:13] Sender 1 encounters COLLISION.[18/11/2024 16:36:13] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:13] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:13] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:13] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:13] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:13] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:36:13] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:36:14] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:14] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:14] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:14] Sender 2 sent Packet 2 to Channel
+[18/11/2024 16:36:14] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:14] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:14] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:14] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:14] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:14] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:15] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:36:15] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:36:15] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:15] Sender 1 sent Packet 2 to Channel
+[18/11/2024 16:36:15] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:15] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:15] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:15] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:16] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:16] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:16] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:36:16] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:36:16] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:16] Sender 2 sent Packet 3 to Channel
+[18/11/2024 16:36:16] Sender 3 encounters COLLISION.[18/11/2024 16:36:16] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:16] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:16] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:16] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:17] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:17] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:17] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:36:17] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:36:17] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:17] Sender 4 sent Packet 2 to Channel
+[18/11/2024 16:36:17] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:17] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:17] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:18] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:18] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:18] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:18] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:36:18] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:36:18] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:18] Sender 2 sent Packet 4 to Channel
+[18/11/2024 16:36:18] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:19] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:19] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:19] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:19] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:19] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:19] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:19] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:36:19] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:36:20] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:20] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:20] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:20] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:20] Sender 1 sent Packet 3 to Channel
+[18/11/2024 16:36:20] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:20] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:20] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:20] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:20] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:21] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:21] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:36:21] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:36:21] Sender 1 sent Packet 4 to Channel
+[18/11/2024 16:36:21] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:21] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:21] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:21] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:22] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:22] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:22] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:36:22] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:36:22] Sender 1 sent Packet 5 to Channel
+[18/11/2024 16:36:22] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:22] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:22] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:22] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:22] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:23] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:23] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:23] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:36:23] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:36:23] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:23] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:23] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:23] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:23] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:24] Sender 3 sent Packet 2 to Channel
+[18/11/2024 16:36:24] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:24] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:24] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:24] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:24] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:24] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:24] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:36:24] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:36:25] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:25] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:25] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:25] Sender 2 sent Packet 5 to Channel
+[18/11/2024 16:36:25] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:25] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:25] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:25] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:25] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:25] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:26] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:26] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:26] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:36:26] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:36:26] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:26] Sender 3 sent Packet 3 to Channel
+[18/11/2024 16:36:26] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:26] Sender 1 encounters COLLISION.[18/11/2024 16:36:26] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:26] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:26] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:26] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:27] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:27] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:27] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:36:27] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:36:27] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:27] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:27] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:27] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:27] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:28] Sender 1 sent Packet 6 to Channel
+[18/11/2024 16:36:28] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:28] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:28] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:28] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:28] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:28] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:36:28] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:36:29] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:29] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:29] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:29] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:29] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:29] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:29] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:29] Sender 3 sent Packet 4 to Channel
+[18/11/2024 16:36:29] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:29] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:29] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:30] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:30] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:30] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:36:30] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:36:30] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:30] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:30] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:30] Sender 2 sent Packet 6 to Channel
+[18/11/2024 16:36:30] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:30] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:30] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:31] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:31] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:31] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:36:31] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:36:31] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:31] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:31] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:31] Sender 4 sent Packet 3 to Channel
+[18/11/2024 16:36:32] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:32] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:32] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:32] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:32] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:32] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:36:32] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:36:33] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:33] Sender 2 sent Packet 7 to Channel
+[18/11/2024 16:36:33] Sender 3 encounters COLLISION.[18/11/2024 16:36:33] Sender 1 encounters COLLISION.[18/11/2024 16:36:33] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:33] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:33] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:33] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:33] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:33] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:36:33] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:36:34] Sender 2 sent Packet 8 to Channel
+[18/11/2024 16:36:34] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:34] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:34] Sender 4 encounters COLLISION.[18/11/2024 16:36:34] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:34] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:34] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:34] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:34] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:35] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:36:35] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:36:35] Sender 2 sent Packet 9 to Channel
+[18/11/2024 16:36:35] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:35] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:35] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:35] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:35] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:36] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:36] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:36:36] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:36:36] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:36] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:36] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:36] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:36] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:36] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:36] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:36] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:36] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:36] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:37] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:37] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:37] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:37] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:37] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:37] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:37] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:37] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:37] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:37] Sender 4 sent Packet 4 to Channel
+[18/11/2024 16:36:37] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:37] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:37] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:37] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:37] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:38] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:38] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:38] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:36:38] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:36:38] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:38] Sender 1 sent Packet 7 to Channel
+[18/11/2024 16:36:38] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:38] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:39] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:39] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:39] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:39] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:36:39] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:36:39] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:39] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:39] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:40] Sender 4 sent Packet 5 to Channel
+[18/11/2024 16:36:40] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:40] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:40] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:40] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:40] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:40] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:36:40] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:36:41] Sender 4 sent Packet 6 to Channel
+[18/11/2024 16:36:41] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:41] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:41] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:41] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:41] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:41] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:41] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:41] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:41] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:36:42] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:36:42] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:42] Sender 1 sent Packet 8 to Channel
+[18/11/2024 16:36:42] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:42] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:42] Sender 3 encounters COLLISION.[18/11/2024 16:36:42] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:42] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:42] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:43] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:43] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:43] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:36:43] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:36:43] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:43] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:43] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:43] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:43] Sender 1 sent Packet 9 to Channel
+[18/11/2024 16:36:43] Sender 3 encounters COLLISION.[18/11/2024 16:36:43] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:43] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:43] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:44] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:44] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:44] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:36:44] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:36:44] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:44] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:44] Sender 3 sent Packet 5 to Channel
+[18/11/2024 16:36:44] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:45] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:45] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:45] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:45] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:45] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:45] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:36:45] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:36:46] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:46] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:46] Sender 2 sent Packet 10 to Channel
+[18/11/2024 16:36:46] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:46] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:46] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:46] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:46] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:46] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:46] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:47] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:36:47] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:36:47] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:47] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:47] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:47] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:47] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:47] Sender 1 sent Packet 10 to Channel
+[18/11/2024 16:36:47] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:47] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:47] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:48] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:48] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:48] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:48] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:36:48] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:36:48] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:48] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:48] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:48] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:49] Sender 4 sent Packet 7 to Channel
+[18/11/2024 16:36:49] Sender 2 encounters COLLISION.[18/11/2024 16:36:49] Sender 3 encounters COLLISION.[18/11/2024 16:36:49] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:49] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:49] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:49] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:49] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:49] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:36:49] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:36:50] Sender 4 sent Packet 8 to Channel
+[18/11/2024 16:36:50] Sender 2 encounters COLLISION.[18/11/2024 16:36:50] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:50] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:50] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:50] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:50] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:50] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:50] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:51] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:36:51] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:36:51] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:51] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:51] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:51] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:51] Sender 1 sent Packet 11 to Channel
+[18/11/2024 16:36:51] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:51] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:51] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:51] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:52] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:52] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:52] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:36:52] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:36:52] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:52] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:52] Sender 4 sent Packet 9 to Channel
+[18/11/2024 16:36:52] Sender 2 encounters COLLISION.[18/11/2024 16:36:52] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:52] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:52] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:53] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:53] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:53] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:36:53] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:36:53] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:53] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:53] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:53] Sender 3 sent Packet 6 to Channel
+[18/11/2024 16:36:54] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:54] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:54] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:54] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:54] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:54] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:36:54] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:36:55] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:55] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:55] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:55] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:55] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:55] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:55] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:55] Sender 2 sent Packet 11 to Channel
+[18/11/2024 16:36:55] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:55] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:55] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:56] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:56] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:56] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:36:56] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:36:56] Sender 2 sent Packet 12 to Channel
+[18/11/2024 16:36:56] Sender 3 encounters COLLISION.[18/11/2024 16:36:56] Sender 4 encounters COLLISION.[18/11/2024 16:36:56] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:56] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:56] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:56] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:57] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:57] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:57] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:36:57] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:36:57] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:57] Sender 3 sent Packet 7 to Channel
+[18/11/2024 16:36:57] Sender 4 encounters COLLISION.[18/11/2024 16:36:57] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:57] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:57] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:58] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:58] Sender 2 finds Channel is BUSY.[18/11/2024 16:36:58] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:36:58] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:36:58] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:58] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:58] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:36:58] Sender 2 sent Packet 13 to Channel
+[18/11/2024 16:36:59] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:59] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:59] Sender 1 finds Channel is BUSY.[18/11/2024 16:36:59] Sender 3 finds Channel is BUSY.[18/11/2024 16:36:59] Sender 4 finds Channel is BUSY.[18/11/2024 16:36:59] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:36:59] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:36:59] Sender 2 sent Packet 14 to Channel
+[18/11/2024 16:37:00] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:00] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:00] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:00] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:00] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:00] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:00] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:00] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:37:00] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:37:01] Sender 2 sent Packet 15 to Channel
+[18/11/2024 16:37:01] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:01] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:01] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:01] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:01] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:01] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:01] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:37:02] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+[18/11/2024 16:37:02] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:02] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:02] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:02] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:02] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:02] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:02] Sender 4 sent Packet 10 to Channel
+[18/11/2024 16:37:02] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:02] Sender 2 finds Channel is BUSY.[18/11/2024 16:37:02] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:02] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:03] Sender 2 finds Channel is BUSY.[18/11/2024 16:37:03] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:03] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:37:03] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:37:03] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:03] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:03] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:03] Sender 1 sent Packet 12 to Channel
+[18/11/2024 16:37:03] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:03] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:04] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:04] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:04] Sender 2 finds Channel is BUSY.[18/11/2024 16:37:04] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:04] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:04] Sender 2 finds Channel is BUSY.
+[18/11/2024 16:37:04] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:37:05] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:05] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:05] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:05] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:05] Sender 1 sent Packet 13 to Channel
+[18/11/2024 16:37:05] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:05] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:05] Sender 2 finds Channel is BUSY.[18/11/2024 16:37:05] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:05] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:05] Sender 2 finds Channel is BUSY.[18/11/2024 16:37:06] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:37:06] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:37:06] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:06] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:06] Sender 2 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:06] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:06] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:06] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:06] Sender 2 sent Packet 16 to Channel
+[18/11/2024 16:37:06] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:06] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:06] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:07] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:07] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:07] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:07] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:37:07] Receiver-2 received Packet SUCCESSFULLY from sender 1!
+
+
+**********[18/11/2024 16:37:07] Sender 2 FINISHES sending data*********
+
+[18/11/2024 16:37:07] Sender 1 sent Packet 14 to Channel
+[18/11/2024 16:37:07] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:08] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:08] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:08] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:08] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:37:08] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:37:08] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:09] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:09] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:09] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:09] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:09] Sender 4 sent Packet 11 to Channel
+[18/11/2024 16:37:09] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:09] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:09] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:10] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:10] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:37:10] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:37:10] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:10] Sender 3 sent Packet 8 to Channel
+[18/11/2024 16:37:10] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:10] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:11] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:11] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:37:11] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:37:11] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:11] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:11] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:11] Sender 3 sent Packet 9 to Channel
+[18/11/2024 16:37:11] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:12] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:12] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:12] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:12] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:37:12] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:37:13] Sender 3 sent Packet 10 to Channel
+[18/11/2024 16:37:13] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:13] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:13] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:13] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:13] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:37:13] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:37:14] Sender 3 sent Packet 11 to Channel
+[18/11/2024 16:37:14] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:14] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:14] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:14] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:15] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:37:15] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:37:15] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:15] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:15] Sender 1 sent Packet 15 to Channel
+[18/11/2024 16:37:15] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:15] Sender 4 encounters COLLISION.[18/11/2024 16:37:15] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:15] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:16] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:16] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:37:16] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+[18/11/2024 16:37:16] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:16] Sender 4 sent Packet 12 to Channel
+[18/11/2024 16:37:16] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:16] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:17] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:17] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:17] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:37:17] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:37:17] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:17] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:18] Sender 3 sent Packet 12 to Channel
+[18/11/2024 16:37:18] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:18] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:18] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:18] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:18] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:18] Sender 1 finds Channel is BUSY.
+[18/11/2024 16:37:18] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:37:19] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:19] Sender 4 sent Packet 13 to Channel
+[18/11/2024 16:37:19] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:19] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:19] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:19] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:20] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:20] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:37:20] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:37:20] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:20] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:20] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:20] Sender 4 sent Packet 14 to Channel
+[18/11/2024 16:37:20] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:20] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:21] Sender 1 finds Channel is BUSY.[18/11/2024 16:37:21] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:37:21] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:37:21] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:21] Sender 1 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:21] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:22] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:22] Sender 1 sent Packet 16 to Channel
+[18/11/2024 16:37:22] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:22] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:22] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:22] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:22] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:37:23] Receiver-1 received Packet SUCCESSFULLY from sender 0!
+
+
+**********[18/11/2024 16:37:23] Sender 1 FINISHES sending data*********
+
+[18/11/2024 16:37:23] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:23] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:23] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:23] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:23] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:23] Sender 3 sent Packet 13 to Channel
+[18/11/2024 16:37:24] Sender 4 sent Packet 15 to Channel
+
+[18/11/2024 16:37:24] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:37:25] Sender 3 finds Channel is BUSY.[18/11/2024 16:37:25] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:25] Sender 3 finds Channel is BUSY.
+[18/11/2024 16:37:25] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+[18/11/2024 16:37:25] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:25] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:26] Sender 3 sent Packet 14 to Channel
+[18/11/2024 16:37:26] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:26] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:26] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:37:26] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:37:27] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:27] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:27] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:27] Sender 3 sent Packet 15 to Channel
+[18/11/2024 16:37:27] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:27] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:28] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:37:28] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+[18/11/2024 16:37:28] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:28] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:28] Sender 3 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:29] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:29] Sender 3 sent Packet 16 to Channel
+[18/11/2024 16:37:29] Sender 4 finds Channel is BUSY.[18/11/2024 16:37:29] Sender 4 finds Channel is BUSY.
+[18/11/2024 16:37:30] Receiver-3 received Packet SUCCESSFULLY from sender 2!
+
+
+**********[18/11/2024 16:37:30] Sender 3 FINISHES sending data*********
+
+[18/11/2024 16:37:30] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:30] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:30] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:31] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:31] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:31] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:31] Sender 4 is WAITING, wait period:0.25secs.
+[18/11/2024 16:37:32] Sender 4 sent Packet 16 to Channel
+
+[18/11/2024 16:37:33] Receiver-4 received Packet SUCCESSFULLY from sender 3!
+
+
+**********[18/11/2024 16:37:33] Sender 4 FINISHES sending data*********
+
